@@ -17,3 +17,5 @@ git checkout (main) ou (master) = retorna o projeto para a modificação atual
 git diff = mostra as mudanças, antes de realizar o commit
 git reset --hard + (nº do ramo) = remove um commit
 git checkout -b + (nome) = cria uma nova ramificação do projeto
+git merge = faz a fusão do novo ramo ao ramo main
+git remote = verifica se há algum repositório remoto ao projeto
