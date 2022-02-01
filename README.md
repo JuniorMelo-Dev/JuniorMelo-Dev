@@ -4,7 +4,7 @@
 - 💞️ I’m looking to colaborar em projetos de crescimento educacional e busca profissional na área 
 -  
 - 📫 How to reach me ... www.linkedin.com/in/juniormelo01  
--  📫 How to reach me ... juniormelo.dev@gmail.com
+- 📧: How to reach me ... juniormelo.dev@gmail.com
 - 
 <!---
 JuniorMelo-Dev/JuniorMelo-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
