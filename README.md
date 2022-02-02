@@ -1,5 +1,5 @@
 - ## Olá, sou Junior Melo...
-- Me ajude a divulgar minha página do GitHub :octocat:
+- Me ajude a compartilhar minha página do GitHub :octocat:
 
 -
 
