@@ -8,6 +8,7 @@ git add (*) ou (.) - adiciona todos os arquivos ao container para commitar
 git status = mostra o estado atual dos arquivos e mostra atalhos para seguir
 git commit -m = cria um comentário aos arquivos adicionados e os coloca dentro de um container (não criou o commit)
 git commit -am = cria um comentário aos arquivos adicionados e os coloca dentro de um container (criou o commit)
+git reflog = exibe as versoes mais recentes do código
 git log = informa na tela as modificações nos arquivos e mostra Author e Date
 git log --oneline = informa na tela as modificações de forma simplificada
 git log --graph = mostra o  desenho do grafo de commits
@@ -22,4 +23,3 @@ git remote = verifica se há algum repositório remoto ao projeto
 git push origin (main) ou (master) = envia as alterações do repositório local para o REMOTO
 git pull = puxa as alterações do repositório remoto pra o LOCAL
 git fetch = realiza o download das alterações que estão no REMOTO para análise
-git reflog = exibe as versoes mais recentes do código
