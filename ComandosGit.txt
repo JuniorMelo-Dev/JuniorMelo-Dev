@@ -22,3 +22,4 @@ git remote = verifica se há algum repositório remoto ao projeto
 git push origin (main) ou (master) = envia as alterações do repositório local para o REMOTO
 git pull = puxa as alterações do repositório remoto pra o LOCAL
 git fetch = realiza o download das alterações que estão no REMOTO para análise
+git reflog = exibe as versoes mais recentes do código
