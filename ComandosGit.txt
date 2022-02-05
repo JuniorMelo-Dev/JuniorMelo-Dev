@@ -1,4 +1,4 @@
-Comandos Git
+Comandos Práticos de Git
 
 touch = cria arquivos
 mkdir = cria pastas
