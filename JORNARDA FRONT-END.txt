@@ -21,7 +21,7 @@ CRONOGRAMA DE ESTUDOS DESENVOLVIMENTO FRONT-END
 - Angular.Js
 - Angular 11 Avançado: Criando uma arquitetura Master/Detail
 - Vue.Js do Jeito Ninja
-- Bootstrap......................................................................................
+- Bootstrap
 - Materialize CSS
 - Fundation 5 para Iniciantes
 - Adobe XD
