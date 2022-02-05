@@ -1,0 +1,27 @@
+
+CRONOGRAMA DE ESTUDOS DESENVOLVIMENTO FRONT-END 
+(ESTUDAR 2X CADA DISCIPLINA EM SITES DIFERENTES)
+
+
+- Curso Comportamental ..................................................................OK
+- Algoritmo e Lógica de Programação ................................................OK
+- Scrum ..........................................................................................OK
+- Git e Github ..................................................................................OK
+- HTML e CSS para Iniciantes ............................................................OK
+- CSS pseudo classes .......................................................................OK
+- HTML, CSS, CSS2, CSS3, Flexbox e CSSGrid
+- JavaScript do Básico ao Avançado...................................................
+- SEO para DEVs
+- Ferramentas para SEO
+- MetaTags em HTML........................................................................OK
+- Sass.............................................................................................OK
+- Framework x Biblioteca
+- JQuery
+- React.Js
+- Angular.Js
+- Angular 11 Avançado: Criando uma arquitetura Master/Detail
+- Vue.Js do Jeito Ninja
+- Bootstrap......................................................................................
+- Materialize CSS
+- Fundation 5 para Iniciantes
+- Adobe XD
