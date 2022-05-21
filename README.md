@@ -19,7 +19,8 @@
   <img align="center" alt="Junior-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="JuniorSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img align="center" alt="Junior-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  
+  <img align="center" atl="Junior-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+          
  </div>  
 
 ## 
@@ -32,5 +33,5 @@
 ## 
   
 - 👋 Hi, I’m  :octocat:  @JuniorMelo-Dev Estudante de Análise de Sistemas pela Universidade Unopar
-- 👀 I’m interested in - Imersão no mundo Programação Web
-- 🌱 I’m currently learning - Jornarda Front-End e BootCamps de Aprendizado
+- 👀 I’m interested in - Aprendizado constante no mundo da Programação Web
+- 🌱 I’m currently learning - Aulas ADS, Jornarda Front-End, BootCamps de Aprendizado e Banco de Dados...
